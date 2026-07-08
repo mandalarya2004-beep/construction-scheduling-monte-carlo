@@ -1,5 +1,7 @@
 # Resource-Constrained Construction Scheduling Under Uncertainty
 
+**GitHub:** https://github.com/mandalarya2004-beep/construction-scheduling-monte-carlo
+
 Comparing scheduling priority rules with Monte Carlo simulation, benchmarked
 against the Critical Path Method (CPM).
 
